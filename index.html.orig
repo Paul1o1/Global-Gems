@@ -2631,14 +2631,14 @@
             </div>
           </div>
           <div class="footer-bottom-wrapper">
-            <div class="footer-details-text">
+           <!-- <div class="footer-details-text">
               Web Designed & Developed by <br /><a
                 href="https://www.instagram.com/rendocreatives/"
                 target="_blank"
                 class="footer-details-text-link"
                 >Rendo Creatives</a
               >
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="footer-circel-one"></div>
